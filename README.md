@@ -364,9 +364,3 @@ WHERE member_id IN (SELECT
 ;
 
 SELECT * FROM active_members;
-
-Reports
-Database Schema: Detailed table structures and relationships.
-Data Analysis: Insights into book categories, employee salaries, member registration trends, and issued books.
-Summary Reports: Aggregated data on high-demand books and employee performance.
-Conclusion
